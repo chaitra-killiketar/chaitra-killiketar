@@ -3,7 +3,7 @@
 
 contributors = [
     "Alice - Project Creator",
-    "Bob - First Contributor",
+    "Bob - First Contributor", 
     "chaitra-second contributor",
 ]
 
