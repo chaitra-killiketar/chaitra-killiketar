@@ -4,6 +4,7 @@
 contributors = [
     "Alice - Project Creator",
     "Bob - First Contributor",
+    "chaitra-second contributor",
 ]
 
 def show_contributors():
